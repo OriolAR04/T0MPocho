@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926158466696",
+    "project_id": "t0mpocho",
+    "storage_bucket": "t0mpocho.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926158466696:android:f52e99931ee452f0b8793d",
+        "android_client_info": {
+          "package_name": "com.example.t0mpocho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBGYIyzjAXirVg9E1840IKrwxCEFKmtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
